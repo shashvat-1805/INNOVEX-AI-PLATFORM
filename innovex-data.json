@@ -1,0 +1,133 @@
+{
+  "users": [],
+  "state": {
+    "ch": [],
+    "st": [
+      {
+        "id": 1,
+        "name": "VisionAI",
+        "sec": [
+          "Government",
+          "Corporate",
+          "Healthcare"
+        ],
+        "tags": "computer vision ai analytics automation",
+        "min": 8,
+        "pilots": 3,
+        "won": 2,
+        "imp": 24,
+        "sec_ok": true,
+        "ready": "Production",
+        "gov": 2,
+        "corp": 1
+      },
+      {
+        "id": 2,
+        "name": "RoboFlow",
+        "sec": [
+          "Manufacturing",
+          "Logistics",
+          "Corporate"
+        ],
+        "tags": "robotics computer vision warehouse automation",
+        "min": 12,
+        "pilots": 5,
+        "won": 3,
+        "imp": 18,
+        "sec_ok": true,
+        "ready": "Production",
+        "gov": 0,
+        "corp": 3
+      },
+      {
+        "id": 3,
+        "name": "TrackX",
+        "sec": [
+          "Logistics",
+          "Government"
+        ],
+        "tags": "gps tracking fleet route optimization",
+        "min": 5,
+        "pilots": 2,
+        "won": 1,
+        "imp": 15,
+        "sec_ok": true,
+        "ready": "MVP",
+        "gov": 1,
+        "corp": 0
+      },
+      {
+        "id": 4,
+        "name": "GovFlow",
+        "sec": [
+          "Government",
+          "University"
+        ],
+        "tags": "workflow documents compliance digital services",
+        "min": 4,
+        "pilots": 4,
+        "won": 3,
+        "imp": 20,
+        "sec_ok": true,
+        "ready": "Production",
+        "gov": 3,
+        "corp": 0
+      },
+      {
+        "id": 5,
+        "name": "MediQ",
+        "sec": [
+          "Healthcare"
+        ],
+        "tags": "hospital queue appointment healthcare ai",
+        "min": 7,
+        "pilots": 3,
+        "won": 2,
+        "imp": 22,
+        "sec_ok": true,
+        "ready": "Production",
+        "gov": 1,
+        "corp": 1
+      },
+      {
+        "id": 6,
+        "name": "KrishiSense",
+        "sec": [
+          "Agriculture",
+          "Sustainability"
+        ],
+        "tags": "crop yield soil drone irrigation farm wastage",
+        "min": 2,
+        "pilots": 2,
+        "won": 1,
+        "imp": 15,
+        "sec_ok": false,
+        "ready": "MVP",
+        "gov": 1,
+        "corp": 0
+      },
+      {
+        "id": 7,
+        "name": "GreenGrid",
+        "sec": [
+          "Sustainability",
+          "Manufacturing",
+          "Corporate"
+        ],
+        "tags": "energy emissions carbon power optimisation efficiency",
+        "min": 6,
+        "pilots": 4,
+        "won": 3,
+        "imp": 21,
+        "sec_ok": true,
+        "ready": "Production",
+        "gov": 1,
+        "corp": 2
+      }
+    ],
+    "v": 1
+  },
+  "audit": [],
+  "nextUserId": 1,
+  "nextAuditId": 1
+}
